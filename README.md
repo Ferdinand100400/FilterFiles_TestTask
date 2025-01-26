@@ -15,6 +15,7 @@
 java -jar FilterFiles_TestTask.jar -a -p sample in1.txt in2.txt
 
 В коде использована система сборки Maven версии 4.0.0. С строней библиотекой junit:
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
